@@ -4,7 +4,7 @@ An english message will follow 🤓
 - 🌱 J'étudie au B.Sc.A en informatique à l'Université Laval
 - 📫 Comment me joindre: nick.gagne77@gmail.com ou nicolas.gagne.8@ulaval.ca
 - 👔 Voici le lien vers mon profil LinkedIn: www.linkedin.com/in/nicolas-gagne
-#######################################################################################################
+##################################################################################################
 - 👋 Hi, I’m Nicolas Gagne
 - 👀 I’m interested in software development and engineering, artificial intelligence, cybersecurity and blockchain
 - 🌱 I’m currently learning: B.Sc.A. Compuer Science
